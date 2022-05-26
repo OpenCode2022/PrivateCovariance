@@ -1,7 +1,7 @@
 # Differentially Private Covariance Revisited
 This repo contains code for implementations of the algorithms and experiments in the paper "Differentially Private Covariance Revisited".
 
-| Folder name     | Description                                                                                                |
+| Folder          | Description                                                                                                |
 | ----------------| ---------------------------------------------------------------------------------------------------------- |
 | adaptive        | implementations for our algorithms and the Gaussian mechanism                                              |
 | exponential     | implementation for EMCov (exponential mechanism)                                                           |
