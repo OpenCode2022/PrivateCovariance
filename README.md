@@ -35,6 +35,11 @@ To reproduce the results in a specific figure, run its corresponding script list
 | test_mnist_fix_n.py  | Figure 3.            | MNIST dataset test        |
 | test_news_rho_l2.py  | Figure 4(a)-(c).            | News dataset test, unit l2 norm        |
 | test_news_rho_maxl2.py  | Figure 4(d)-(e).            | News dataset test, normalized by max l2 norm       |
+| test_mnist_digit.py  | Figure 5.            | MNIST dataset individual digits test        |
+| test_d_N1_pure.py       | Figure 6.            | Synthetic dataset test, fixing tr=1 (pure DP)        |
+| test_Ns_pure.py         | Figure 7(a), 7(d)            | Synthetic dataset test, various tr (pure DP)      |
+| test_d_pure.py         | Figure 7(b), 7(e)            | Synthetic dataset test, various d (pure DP)      |
+| test_eps_pure.py         | Figure 7(c), 7(f)            | Synthetic dataset test, various epsilon (pure DP)      |
 
 For example, to run the test in Figure 1:
 ```test
