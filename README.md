@@ -1,5 +1,5 @@
 # Differentially Private Covariance Revisited
-This repo contains code for implementations of the algorithms and experiments in the paper "Differentially Private Covariance Revisited".
+This repo contains the official code for the implementations of the algorithms and experiments in the paper "Differentially Private Covariance Revisited".
 
 | Folder          | Description                                                                                                |
 | ----------------| ---------------------------------------------------------------------------------------------------------- |
