@@ -45,6 +45,7 @@ For example, to run the test in Figure 1:
 ```test
 python test_d_N1.py
 ```
+Note: when running the corresponding scripts for the tests on real-world datasets, the code will check whether the datasets are in the directory "./data/". <br/> If not, it will download them using the links embedded in the code to that directory. 
 
 
 
