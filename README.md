@@ -11,12 +11,14 @@ This repo contains the official code for the implementations of the algorithms a
 ## Requirements
 The algorithms and experiments were implemented in Python (v3.9).
 
-The following packages are required:<br/>
+The following packages are required and can be installed via conda or pip:<br/>
 pytorch v1.9.0 <br/>
-scipy 1.8.0 <br/>
-scikit-learn 1.0.1 <br/>
+numpy v1.22.3 <br/>
+scipy v1.8.0 <br/>
+scikit-learn v1.0.1 <br/>
 
 ```setup
+conda install numpy==1.22.3
 conda install pytorch==1.9.0 torchvision==0.10.0 torchaudio==0.9.0 cpuonly -c pytorch
 conda install scipy==1.8.0
 conda install scikit-learn==1.0.1
