@@ -4,8 +4,8 @@ This repo contains code for implementations of the algorithms and experiments in
 | Folder          | Description                                                                                                |
 | ----------------| ---------------------------------------------------------------------------------------------------------- |
 | adaptive        | implementations for our algorithms and the Gaussian mechanism                                              |
-| exponential     | implementation for EMCov (exponential mechanism)                                                           |
-| coinpress       | a copy of the code from https://github.com/twistedcubic/coin-press, containing implementation of coinpress |
+| exponential     | implementation for [Exponential mechanism for covariance estimation](https://papers.nips.cc/paper/2019/hash/4158f6d19559955bae372bb00f6204e4-Abstract.html)                                                           |
+| coinpress       | a copy of the code from https://github.com/twistedcubic/coin-press, containing implementation of [coinpress](https://proceedings.neurips.cc/paper/2020/hash/a684eceee76fc522773286a895bc8436-Abstract.html) |
 
 
 ## Requirements
