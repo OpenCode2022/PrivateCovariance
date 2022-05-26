@@ -1,11 +1,11 @@
 # Differentially Private Covariance Revisited
 This repo contains code for implementations of the algorithms and experiments in the paper "Differentially Private Covariance Revisited".
 
-| Folder name        | Description                                                                                                |
-| ------------------ | ---------------------------------------------------------------------------------------------------------- |
-| adaptive           | implementations for our algorithms and the Gaussian mechanism                                              |
-| exponential        | implementation for EMCov (exponential mechanism)                                                           |
-| coinpress          | a copy of the code from https://github.com/twistedcubic/coin-press, containing implementation of coinpress |
+| Folder name     | Description                                                                                                |
+| ----------------| ---------------------------------------------------------------------------------------------------------- |
+| adaptive        | implementations for our algorithms and the Gaussian mechanism                                              |
+| exponential     | implementation for EMCov (exponential mechanism)                                                           |
+| coinpress       | a copy of the code from https://github.com/twistedcubic/coin-press, containing implementation of coinpress |
 
 
 ## Requirements
