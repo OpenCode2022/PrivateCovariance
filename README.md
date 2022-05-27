@@ -49,5 +49,8 @@ python test_d_N1.py
 ```
 Note: when running the corresponding scripts for the tests on real-world datasets, the code will check whether the datasets are in the directory "./data/". <br/> If not, it will download them using the links embedded in the code to that directory. 
 
+## Compute Resources
+All experiments reported in the paper were run on a linux machine with 48 CPUs and 256GB RAM. <br/>
+
 
 
